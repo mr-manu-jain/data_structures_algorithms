@@ -35,11 +35,11 @@ class Solution:
                 res.append(0)
             else:
                 res.append(min_array[i]-height[i])
-        print(height)
-        print(left_array)
-        print(right_array)
-        print(min_array)
-        print(res)
+        # print(height)
+        # print(left_array)
+        # print(right_array)
+        # print(min_array)
+        # print(res)
         return sum(res)
 
 
