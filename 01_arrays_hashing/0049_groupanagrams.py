@@ -1,22 +1,16 @@
 from typing import List
 from collections import defaultdict
 class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        if len(s)!= len(t):
-            return False
-
-        hashmapp = defaultdict(int)
-        hashmapp1 = defaultdict(int)
-        for i in range(len(s)):
-            hashmapp[s[i]] += 1
-            hashmapp1[t[i]] += 1
+    def group_Anagram(self, strs: List[str]) -> List[List[str]]:
+        hashmapp = defaultdict(list)
+        for word in strs:
+            char_count = [0]*26
+            for char in word:
+                char_count[ord(char)-ord('a')]+=1
+            hashmapp[tuple(char_count)].append(word)
         
-        for char in s:
-            if hashmapp[char] != hashmapp1[char]:
-                return False
-        return True
-        
+        return [v for k,v in hashmapp.items()]
 
 solu = Solution()
-res = solu.isAnagram("anagram","nagaram")
+res = solu.group_Anagram(["act","pots","tops","cat","stop","hat"])
 print(res)
