@@ -7,13 +7,12 @@
 class Solution:
     def createBinaryTree(self, left, right, nums):
         if left > right: return None
-
-        m = (left+right)//2
-
+        m = left+(right-left)//2
         root = TreeNode(nums[m])
         root.left = self.createBinaryTree(left, m-1, nums)
         root.right = self.createBinaryTree(m+1, right, nums)
         return root
+    
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
         return self.createBinaryTree(0, len(nums)-1, nums)
         
