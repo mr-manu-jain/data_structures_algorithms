@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-sales-analysis-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1083-sales-analysis-ii) |
 | [1107-new-users-daily-count](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1107-new-users-daily-count) |
 | [1355-activity-participants](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1355-activity-participants) |
+| [1435-create-a-session-bar-chart](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1435-create-a-session-bar-chart) |
 <!---LeetCode Topics End-->
