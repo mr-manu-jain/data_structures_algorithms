@@ -6,7 +6,7 @@ WITH averages AS (
     GROUP BY event_type
 ),
 business_averages AS (
-    SELECT DISTINCT business_id,
+    SELECT business_id,
     COUNT(*) AS cnt
     FROM Events
     LEFT OUTER JOIN averages 
