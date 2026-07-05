@@ -12,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-monthly-transactions-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1205-monthly-transactions-ii) |
 | [1355-activity-participants](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1355-activity-participants) |
 | [1435-create-a-session-bar-chart](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1435-create-a-session-bar-chart) |
+## Math
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
