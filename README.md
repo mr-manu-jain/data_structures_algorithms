@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-weather-type-in-each-country](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1294-weather-type-in-each-country) |
 | [1303-find-the-team-size](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1303-find-the-team-size) |
 | [1355-activity-participants](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1355-activity-participants) |
+| [1421-npv-queries](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1421-npv-queries) |
 | [1435-create-a-session-bar-chart](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1435-create-a-session-bar-chart) |
 ## Math
 |  |
