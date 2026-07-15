@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1173-immediate-food-delivery-i](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1173-immediate-food-delivery-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1174-immediate-food-delivery-ii) |
 | [1205-monthly-transactions-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1205-monthly-transactions-ii) |
+| [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1294-weather-type-in-each-country](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1294-weather-type-in-each-country) |
 | [1303-find-the-team-size](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1303-find-the-team-size) |
 | [1355-activity-participants](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1355-activity-participants) |
