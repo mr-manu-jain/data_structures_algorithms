@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0224-basic-calculator) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
