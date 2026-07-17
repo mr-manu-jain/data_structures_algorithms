@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0571-find-median-given-frequency-of-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0580-count-student-number-in-departments](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0580-count-student-number-in-departments) |
 | [1083-sales-analysis-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1083-sales-analysis-ii) |
 | [1107-new-users-daily-count](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1107-new-users-daily-count) |
