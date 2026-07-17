@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -70,13 +71,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
