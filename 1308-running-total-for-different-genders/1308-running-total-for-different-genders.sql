@@ -8,4 +8,3 @@ WITH CTE AS (
 
 SELECT *
 FROM CTE
-ORDER BY gender
