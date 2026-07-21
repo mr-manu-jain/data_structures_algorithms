@@ -8,10 +8,14 @@ def league_statistics(teams: pd.DataFrame, matches: pd.DataFrame) -> pd.DataFram
 
     df = pd.concat([home_df,away_df])
     df['goal_diff'] = df.goal_for - df.goal_against
-    df['points'] = (df.goal_diff >= 0) + 2 * (df.goal_diff > 0)
+    conditions = [df.goal_diff > 0, df.goal_diff ==0]
+    choices = [3,1]
+    df['points'] = np.select(conditions,choices,default=0)
+
+    #df['points'] = (df.goal_diff >= 0) + 2 * (df.goal_diff > 0)
     df['matches_played'] = 1
 
     return (df.groupby('team_id', as_index = False).sum()
     .merge(teams)
     .sort_values(['points', 'goal_diff', 'team_name'], ascending = [0,0,1])
-              .iloc[:,[6,5,4,1,2,3]].dropna())
+              [['team_name', 'matches_played', 'points', 'goal_for', 'goal_against', 'goal_diff']].dropna())
