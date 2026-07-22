@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0224-basic-calculator) |
 | [1175-prime-arrangements](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1175-prime-arrangements) |
+| [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
 |  |
 | ------- |
