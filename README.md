@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0133-clone-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 <!---LeetCode Topics End-->
