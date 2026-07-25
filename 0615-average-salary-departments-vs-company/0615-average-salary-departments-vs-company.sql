@@ -10,7 +10,7 @@ dept_avg AS (
     e.department_id,
     AVG(s.amount) AS avg_pay
     FROM Salary AS s
-    LEFT OUTER JOIN Employee AS e
+    INNER JOIN Employee AS e
     ON s.employee_id = e.employee_id
     GROUP BY FORMAT(pay_date,'yyyy-MM'), department_id
 )
