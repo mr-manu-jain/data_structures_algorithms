@@ -1,18 +1,18 @@
 /* Write your T-SQL query statement below */
 WITH monthly_salary AS (
-    SELECT FORMAT(pay_date,'yyyy-MM') AS pay_month,
+    SELECT CONVERT(VARCHAR(7), pay_date, 126) AS pay_month,
     AVG(amount) AS avg_pay
     FROM Salary
-    GROUP BY FORMAT(pay_date,'yyyy-MM')
+    GROUP BY CONVERT(VARCHAR(7), pay_date, 126)
 ),
 dept_avg AS (
-    SELECT FORMAT(s.pay_date,'yyyy-MM') AS pay_month,
+    SELECT CONVERT(VARCHAR(7), pay_date, 126) AS pay_month,
     e.department_id,
     AVG(s.amount) AS avg_pay
     FROM Salary AS s
-    INNER JOIN Employee AS e
+    LEFT OUTER JOIN Employee AS e
     ON s.employee_id = e.employee_id
-    GROUP BY FORMAT(pay_date,'yyyy-MM'), department_id
+    GROUP BY CONVERT(VARCHAR(7), pay_date, 126), department_id
 )
 
 SELECT d.pay_month,
