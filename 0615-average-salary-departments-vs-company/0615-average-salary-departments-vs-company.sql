@@ -19,5 +19,5 @@ SELECT d.pay_month,
         d.department_id,
         CASE WHEN d.avg_pay = m.avg_pay THEN 'same' WHEN d.avg_pay > m.avg_pay THEN 'higher' ELSE 'lower' END AS comparison
 FROM dept_avg as d
-LEFT OUTER JOIN monthly_salary AS m
+INNER JOIN monthly_salary AS m
 ON d.pay_month = m.pay_month
