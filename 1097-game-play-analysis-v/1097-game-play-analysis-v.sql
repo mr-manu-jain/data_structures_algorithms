@@ -23,13 +23,6 @@ first_second AS (
            MAX(CASE WHEN rnk = 2 THEN event_date END) AS second_login
     FROM next_install_dates
     GROUP BY player_id
-),
-datediff AS (
-    SELECT player_id,
-
-           DATEDIFF(day,first_login,second_login) AS difference
-    FROM first_second
-
 )
 SELECT ic.install_dt,
        ic.installs,
@@ -37,9 +30,6 @@ SELECT ic.install_dt,
            SUM(CASE WHEN DATEDIFF(day, fs.first_login, fs.second_login) = 1 THEN 1 ELSE 0 END) * 1.0 
            / ic.installs, 2
        ) AS Day1_retention
-    --    fs.player_id,
-    --    fs.first_login,
-    --    fs.second_login
 FROM install_counts ic
 JOIN first_second fs ON ic.install_dt = fs.first_login
 GROUP BY ic.install_dt, ic.installs
