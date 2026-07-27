@@ -11,18 +11,27 @@ install_counts AS (
     FROM first_install_dt
     GROUP BY first_install_date
 ),
-next_install_dates AS (
-    SELECT player_id,
-           event_date,
-           DENSE_RANK() OVER (PARTITION BY player_id ORDER BY event_date ASC) AS rnk
-    FROM Activity
-),
+-- next_install_dates AS (
+--     SELECT player_id,
+--            event_date,
+--            DENSE_RANK() OVER (PARTITION BY player_id ORDER BY event_date ASC) AS rnk
+--     FROM Activity
+-- ),
+-- first_second AS (
+--     SELECT player_id,
+--            MAX(CASE WHEN rnk = 1 THEN event_date END) AS first_login,
+--            MAX(CASE WHEN rnk = 2 THEN event_date END) AS second_login
+--     FROM next_install_dates
+--     GROUP BY player_id
+-- )
 first_second AS (
-    SELECT player_id,
-           MAX(CASE WHEN rnk = 1 THEN event_date END) AS first_login,
-           MAX(CASE WHEN rnk = 2 THEN event_date END) AS second_login
-    FROM next_install_dates
-    GROUP BY player_id
+    SELECT f.player_id,
+           f.first_install_date AS first_login,
+           a.event_date AS second_login
+    FROM first_install_dt f
+    LEFT JOIN Activity a
+      ON f.player_id = a.player_id
+     AND a.event_date = DATEADD(day, 1, f.first_install_date)
 )
 SELECT ic.install_dt,
        ic.installs,
