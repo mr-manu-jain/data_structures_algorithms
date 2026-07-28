@@ -1,6 +1,4 @@
-WITH final_transactions AS (
-    SELECT DISTINCT * FROM Transactions
-),
+WITH 
 cte AS (
     SELECT V.user_id,
            V.visit_date,
