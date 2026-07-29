@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0180-consecutive-numbers) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0580-count-student-number-in-departments](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0580-count-student-number-in-departments) |
 | [0615-average-salary-departments-vs-company](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0615-average-salary-departments-vs-company) |
