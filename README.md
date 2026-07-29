@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0571-find-median-given-frequency-of-numbers) |
