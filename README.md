@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0180-consecutive-numbers) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0580-count-student-number-in-departments](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0580-count-student-number-in-departments) |
 | [0615-average-salary-departments-vs-company](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0615-average-salary-departments-vs-company) |
