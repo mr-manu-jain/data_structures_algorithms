@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0224-basic-calculator) |
+| [0443-string-compression](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
