@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0733-flood-fill) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0443-string-compression) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
