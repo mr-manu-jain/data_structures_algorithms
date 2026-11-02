@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0224-basic-calculator) |
 | [1175-prime-arrangements](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/1175-prime-arrangements) |
 | [2965-find-missing-and-repeated-values](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/2965-find-missing-and-repeated-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0224-basic-calculator) |
 ## Depth-First Search
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mr-manu-jain/data_structures_algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
